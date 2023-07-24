@@ -1,0 +1,1 @@
+Aplicando o conceito SOLID no projeto.
